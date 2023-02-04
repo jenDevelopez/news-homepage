@@ -223,7 +223,7 @@ h1, h2, h3{
 }
 
 
-@media(min-width: 1200px){
+@media(min-width: 576px){
     /* General */
     a:hover{
         color: var(--soft-red);
